@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077354090613",
+    "project_id": "swaradev-3bdb6",
+    "storage_bucket": "swaradev-3bdb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077354090613:android:3f2c4b45835ffcf2fba83c",
+        "android_client_info": {
+          "package_name": "com.example.swara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGaONxlB5ZJVtZx1UEa_PDouFekfWYe-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
